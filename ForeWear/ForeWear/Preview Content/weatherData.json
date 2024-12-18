@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 14.25,
+        "lat": 40.8333
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 11.53,
+        "feels_like": 10.8,
+        "temp_min": 10.62,
+        "temp_max": 12.64,
+        "pressure": 1009,
+        "humidity": 79,
+        "sea_level": 1009,
+        "grnd_level": 1006
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.57,
+        "deg": 310
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1733759293,
+    "sys": {
+        "type": 1,
+        "id": 6802,
+        "country": "IT",
+        "sunrise": 1733724958,
+        "sunset": 1733758516
+    },
+    "timezone": 3600,
+    "id": 3172394,
+    "name": "Naples",
+    "cod": 200
+}
